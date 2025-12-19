@@ -1,4 +1,4 @@
-codimport React from 'react'
+import React from 'react'
 import Header from './common/Header'
 import Signup from './components/Signup'
 import { Route, Router, Routes } from 'react-router-dom'
