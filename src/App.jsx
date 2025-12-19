@@ -7,7 +7,7 @@ import Dashboard from './components/Dashboard'
 import PostPet from './components/PostPet'
 import AdoptPet from './components/Adoptpet/AdoptPet'
 import YourPet from './components/yourPet/YourPet'
-import Request from './components/yourPet/Request.JSX'
+import Request from './components/yourPet/Request.jsx'
 
 const App = () => {
   return (
